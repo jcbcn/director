@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master  # trigger branch
+      - main  # trigger branch
 jobs:
   build:
     runs-on: ubuntu-latest
