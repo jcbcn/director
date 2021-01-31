@@ -1,6 +1,6 @@
 # Step by Step
 
-The steps you need to take to turn your custom embedded device into reality.
+The steps you need to take to make your custom embedded device a reality.
 
 ## Hardware
 
