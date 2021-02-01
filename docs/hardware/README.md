@@ -7,5 +7,6 @@
 - OLED Screen
 - Vibration Motor
 - Status LED
+- Button
 - ARM Microcontroller
 - SWD Port
